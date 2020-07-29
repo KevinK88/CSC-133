@@ -3,7 +3,7 @@
 - The project is built on CodeNameOne framework which allows developers to run in cross-platform.
 - The project allows students to go in-depth such as design patterns, MVP, Sound, Animation and Transformation.
 
-# Demo Pic
+# Demo Snapshot
 
 [![demo-pic.png](https://i.postimg.cc/HLpWDJkL/demo-pic.png)](https://postimg.cc/LJbFj8fd)
 
