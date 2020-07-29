@@ -1,7 +1,7 @@
 # Overview
 - This is the project written in Java language with the main purpose for praciting Object Oriented Programming.
 - The project is built on CodeNameOne framework which allows developers to run in cross-platform.
-- The project allows students to go in-depth such as design patterns, MVP,and Transformation.
+- The project allows students to go in-depth such as design patterns, MVP, Sound, Animation and Transformation.
 
 # Demo Pic
 
